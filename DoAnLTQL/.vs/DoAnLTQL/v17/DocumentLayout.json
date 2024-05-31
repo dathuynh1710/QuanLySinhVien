@@ -1,0 +1,873 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|d:\\lap trinh quan ly\\doan\\doan\\doanltql\\gui\\form giao dien\\frmdatasinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmdatasinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmdatasinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmdatasinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|d:\\lap trinh quan ly\\doan\\doan\\doanltql\\gui\\form giao dien\\frmflashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmflashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmthongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmthongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\sinhvien_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\sinhvien_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6434F5E7-4730-4C15-979D-E40ADE42A85D}|BUS\\BUS.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\bus\\sinhvien_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6434F5E7-4730-4C15-979D-E40ADE42A85D}|BUS\\BUS.csproj|solutionrelative:bus\\sinhvien_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AB2B04-6C35-4401-BD99-3F217EC2B049}|DTO\\DTO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dto\\sinhvien_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AB2B04-6C35-4401-BD99-3F217EC2B049}|DTO\\DTO.csproj|solutionrelative:dto\\sinhvien_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmcvht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmcvht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmcvht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmcvht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmthongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmthongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmnganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmnganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmnganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmnganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\reportdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\reportdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\khoa_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\khoa_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmdiem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmdiem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmsinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\gui\\form giao dien\\frmbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C15C32-DE0C-4FEA-B0ED-B5BE92931B2B}|GUI\\GUI.csproj|solutionrelative:gui\\form giao dien\\frmbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\monhoc_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\monhoc_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\cvht_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\cvht_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AB2B04-6C35-4401-BD99-3F217EC2B049}|DTO\\DTO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dto\\monhoc_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AB2B04-6C35-4401-BD99-3F217EC2B049}|DTO\\DTO.csproj|solutionrelative:dto\\monhoc_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6434F5E7-4730-4C15-979D-E40ADE42A85D}|BUS\\BUS.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\bus\\monhoc_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6434F5E7-4730-4C15-979D-E40ADE42A85D}|BUS\\BUS.csproj|solutionrelative:bus\\monhoc_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6434F5E7-4730-4C15-979D-E40ADE42A85D}|BUS\\BUS.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\bus\\khoa_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6434F5E7-4730-4C15-979D-E40ADE42A85D}|BUS\\BUS.csproj|solutionrelative:bus\\khoa_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6434F5E7-4730-4C15-979D-E40ADE42A85D}|BUS\\BUS.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\bus\\csdl_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6434F5E7-4730-4C15-979D-E40ADE42A85D}|BUS\\BUS.csproj|solutionrelative:bus\\csdl_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\diem_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\diem_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\taikhoan_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\taikhoan_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\nganh_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\nganh_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\lop_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\lop_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\dao\\csdl_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E131BE-DDD8-4E1D-843D-238DB22600C1}|DAO\\DAO.csproj|solutionrelative:dao\\csdl_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDataSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDataSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmDataSinhVien.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDataSinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmDataSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:30:06.428Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDataSinhVien.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDataSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmDataSinhVien.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDataSinhVien.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmDataSinhVien.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:33:14.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmSinhVien.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmSinhVien.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmSinhVien.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmSinhVien.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAALMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:37:19.157Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmDangKy.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDangKy.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:30:50.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMonHoc.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMonHoc.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmMonHoc.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMonHoc.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:21:48.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDiem.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDiem.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmDiem.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDiem.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:30:47.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmFlashScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmFlashScreen.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmFlashScreen.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmFlashScreen.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmFlashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:22:13.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmThongTinSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmThongTinSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmThongTinSinhVien.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmThongTinSinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmThongTinSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:46:43.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmThemSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmThemSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmThemSinhVien.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmThemSinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmThemSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:37:10.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmSinhVien.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmSinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:46:37.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBaoCao.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmBaoCao.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmBaoCao.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:15:16.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmLogin.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmLogin.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:31:17.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMonHoc.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMonHoc.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmMonHoc.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMonHoc.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmMonHoc.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAwJ8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:28:00.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmTaiKhoan.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmTaiKhoan.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAAwMsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:56:26.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:46:06.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmMain.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMain.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmMain.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAuwNAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:43:16.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmMain.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMain.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:40:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SinhVien_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\SinhVien_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\SinhVien_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\SinhVien_DAO.cs",
+              "RelativeToolTip": "DAO\\SinhVien_DAO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:46:30.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SinhVien_BUS.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\BUS\\SinhVien_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\SinhVien_BUS.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\BUS\\SinhVien_BUS.cs",
+              "RelativeToolTip": "BUS\\SinhVien_BUS.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:58:23.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SinhVien_DTO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DTO\\SinhVien_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SinhVien_DTO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DTO\\SinhVien_DTO.cs",
+              "RelativeToolTip": "DTO\\SinhVien_DTO.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:53:47.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmDiem.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDiem.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmDiem.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDiem.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmDiem.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:31:22.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MonHoc_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\MonHoc_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\MonHoc_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\MonHoc_DAO.cs",
+              "RelativeToolTip": "DAO\\MonHoc_DAO.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:19:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmCVHT.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmCVHT.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmCVHT.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmCVHT.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmCVHT.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAwwMQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:30:44.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmCVHT.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmCVHT.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmCVHT.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmCVHT.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmCVHT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:20:03.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmBaoCao.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmBaoCao.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmBaoCao.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmBaoCao.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowGcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:43:26.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmDangKy.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmDangKy.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDangKy.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmDangKy.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAUwJAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:30:55.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmKhoa.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmKhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmKhoa.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmKhoa.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmKhoa.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwv64AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:20:15.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmKhoa.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmKhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmKhoa.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmKhoa.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:20:13.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmLop.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmLop.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmLop.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmLop.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmLop.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAADwv7sAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:57:22.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmLop.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmLop.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmLop.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmLop.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:57:19.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmLogin.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmLogin.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmLogin.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAQwM8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:31:53.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmThongTinSinhVien.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmThongTinSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmThongTinSinhVien.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmThongTinSinhVien.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmThongTinSinhVien.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAQwNcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:47:10.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmThemSinhVien.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmThemSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmThemSinhVien.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmThemSinhVien.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmThemSinhVien.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwIUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:47:49.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmNganh.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmNganh.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmNganh.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmNganh.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmNganh.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAADwv9AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:43:14.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmNganh.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmNganh.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmNganh.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmNganh.cs [Design]",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmNganh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:32:24.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReportDiem.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\ReportDiem.cs",
+              "RelativeDocumentMoniker": "GUI\\ReportDiem.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\ReportDiem.cs",
+              "RelativeToolTip": "GUI\\ReportDiem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:42:48.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmTaiKhoan.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmTaiKhoan.Designer.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmTaiKhoan.Designer.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmTaiKhoan.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:59:12.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Khoa_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\Khoa_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\Khoa_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\Khoa_DAO.cs",
+              "RelativeToolTip": "DAO\\Khoa_DAO.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:19:05.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmDiem.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDiem.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmDiem.Designer.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmDiem.Designer.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmDiem.Designer.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:35:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmSinhVien.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmSinhVien.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmSinhVien.Designer.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmSinhVien.Designer.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmSinhVien.Designer.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAwKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:30:25.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmMain.Designer.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmMain.Designer.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmMain.Designer.cs",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAAwFUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:48:54.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmBaoCao.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmBaoCao.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form Giao Dien\\frmBaoCao.Designer.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\GUI\\Form Giao Dien\\frmBaoCao.Designer.cs",
+              "RelativeToolTip": "GUI\\Form Giao Dien\\frmBaoCao.Designer.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:45:13.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MonHoc_DTO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DTO\\MonHoc_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\MonHoc_DTO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DTO\\MonHoc_DTO.cs",
+              "RelativeToolTip": "DTO\\MonHoc_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:23:02.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CVHT_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\CVHT_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\CVHT_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\CVHT_DAO.cs",
+              "RelativeToolTip": "DAO\\CVHT_DAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:17:08.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CSDL_BUS.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\BUS\\CSDL_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\CSDL_BUS.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\BUS\\CSDL_BUS.cs",
+              "RelativeToolTip": "BUS\\CSDL_BUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:01:45.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Khoa_BUS.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\BUS\\Khoa_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\Khoa_BUS.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\BUS\\Khoa_BUS.cs",
+              "RelativeToolTip": "BUS\\Khoa_BUS.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:01:48.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MonHoc_BUS.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\BUS\\MonHoc_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\MonHoc_BUS.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\BUS\\MonHoc_BUS.cs",
+              "RelativeToolTip": "BUS\\MonHoc_BUS.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwDoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:35:50.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Diem_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\Diem_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\Diem_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\Diem_DAO.cs",
+              "RelativeToolTip": "DAO\\Diem_DAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:19:00.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TaiKhoan_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\TaiKhoan_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\TaiKhoan_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\TaiKhoan_DAO.cs",
+              "RelativeToolTip": "DAO\\TaiKhoan_DAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:19:46.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Nganh_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\Nganh_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\Nganh_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\Nganh_DAO.cs",
+              "RelativeToolTip": "DAO\\Nganh_DAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:19:33.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Lop_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\Lop_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\Lop_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\Lop_DAO.cs",
+              "RelativeToolTip": "DAO\\Lop_DAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:19:13.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DAO\\DataProvider.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "DAO\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:19:00.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CSDL_DAO.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\CSDL_DAO.cs",
+              "RelativeDocumentMoniker": "DAO\\CSDL_DAO.cs",
+              "ToolTip": "D:\\Lap Trinh Quan Ly\\DoAn\\DoAn\\DoAnLTQL\\DAO\\CSDL_DAO.cs",
+              "RelativeToolTip": "DAO\\CSDL_DAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:17:06.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
